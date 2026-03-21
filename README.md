@@ -159,4 +159,4 @@ Ao cadastrar a 10ª peça aprovada, o sistema fecha a caixa automaticamente:
 
 ---
 
-*Projeto acadêmico desenvolvido para o curso de Tecnologia — UniFECAF.*
+*Projeto acadêmico desenvolvido para o curso de Tecnologia  em Inteligência Artificial e Automação Digital— UniFECAF.*
